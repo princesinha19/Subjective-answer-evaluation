@@ -1,1 +1,1 @@
-# Subjective-answer-evaluation
+This project was for digital subjective answer evaluation using machine learning. It evaluates the answer on the basis of number of keywords, number of sentences and number of words in the answer. For using this system one need to provide the jpeg,png image as input with the parameters like maximum marks, keywords, word count and sentence count. On that basis sytsem evaluates the answer and provide the marks.
